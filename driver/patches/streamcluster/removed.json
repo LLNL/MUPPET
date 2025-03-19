@@ -1,0 +1,15 @@
+{
+    "list": [
+        {
+            "enabled": true,
+            "id_str": "1_0_26109_26273",
+            "index": 24,
+            "pos": 0,
+            "range_end": 26273,
+            "range_end_text": "streamcluster_omp.cpp:1044:5",
+            "range_start": 26109,
+            "range_start_text": "streamcluster_omp.cpp:1038:5",
+            "type": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "list": [
+        {
+    "enabled": true,
+    "id_str": "3_1_33272_33316",
+    "pos": 1,
+    "range_end": 33316,
+    "range_end_text": "mg.c:1064:45",
+    "range_start": 33272,
+    "range_start_text": "mg.c:1064:1",
+    "type": 3
+        }
+    ]
+}

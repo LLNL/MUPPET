@@ -1,0 +1,13 @@
+@article{MIAO2024103097,
+title = {An automated OpenMP mutation testing framework for performance optimization},
+journal = {Parallel Computing},
+volume = {121},
+pages = {103097},
+year = {2024},
+issn = {0167-8191},
+doi = {https://doi.org/10.1016/j.parco.2024.103097},
+url = {https://www.sciencedirect.com/science/article/pii/S0167819124000358},
+author = {Dolores Miao and Ignacio Laguna and Giorgis Georgakoudis and Konstantinos Parasyris and Cindy Rubio-González},
+keywords = {Mutation testing, OpenMP, Performance optimization, Dynamic program analysis},
+abstract = {Performance optimization continues to be a challenge in modern HPC software. Existing performance optimization techniques, including profiling-based and auto-tuning techniques, fail to indicate program modifications at the source level thus preventing their portability across compilers. This paper describes Muppet, a new approach that identifies program modifications called mutations aimed at improving program performance. Muppet’s mutations help developers reason about performance defects and missed opportunities to improve performance at the source code level. In contrast to compiler techniques that optimize code at intermediate representations (IR), Muppet uses the idea of source-level mutation testing to relax correctness constraints and automatically discover optimization opportunities that otherwise are not feasible using the IR. We demonstrate the Muppet’s concept in the OpenMP programming model. Muppet generates a list of OpenMP mutations that alter the program parallelism in various ways, and is capable of running a variety of optimization algorithms such as delta debugging, Bayesian Optimization and decision tree optimization to find a subset of mutations which, when applied to the original program, cause the most speedup while maintaining program correctness. When Muppet is evaluated against a diverse set of benchmark programs and proxy applications, it is capable of finding sets of mutations that induce speedup in 75.9% of the evaluated programs.}
+}

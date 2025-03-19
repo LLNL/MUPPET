@@ -1,0 +1,24 @@
+{
+    "list": [
+        {
+            "enabled": false,
+            "id_str": "1_0_14527_14659",
+            "pos": 0,
+            "range_end": 14659,
+            "range_end_text": "lulesh-init.cc:497:4",
+            "range_start": 14527,
+            "range_start_text": "lulesh-init.cc:494:4",
+            "type": 1
+        },
+        {
+            "enabled": false,
+            "id_str": "1_0_14865_15069",
+            "pos": 0,
+            "range_end": 15069,
+            "range_end_text": "lulesh-init.cc:508:4",
+            "range_start": 14865,
+            "range_start_text": "lulesh-init.cc:504:4",
+            "type": 1
+        }        
+    ]
+}

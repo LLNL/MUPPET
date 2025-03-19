@@ -1,0 +1,34 @@
+{
+    "list": [
+        {
+            "enabled": true,
+            "id_str": "1_0_772_882",
+            "pos": 0,
+            "range_end": 882,
+            "range_end_text": "../src/OutputFile.cpp:36:3",
+            "range_start": 772,
+            "range_start_text": "../src/OutputFile.cpp:34:3",
+            "type": 1
+        },
+        {
+            "enabled": false,
+            "id_str": "1_0_2174_2337",
+            "pos": 0,
+            "range_end": 2337,
+            "range_end_text": "../src/OutputFile.cpp:100:3",
+            "range_start": 2174,
+            "range_start_text": "../src/OutputFile.cpp:98:3",
+            "type": 1
+        },
+        {
+            "enabled": false,
+            "id_str": "1_0_2454_2592",
+            "pos": 0,
+            "range_end": 2592,
+            "range_end_text": "../src/OutputFile.cpp:111:3",
+            "range_start": 2454,
+            "range_start_text": "../src/OutputFile.cpp:109:3",
+            "type": 1
+        }
+    ]
+}

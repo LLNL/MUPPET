@@ -1,0 +1,24 @@
+{
+    "list": [
+        {
+            "enabled": true,
+            "id_str": "1_0_24275_24380",
+            "pos": 0,
+            "range_end": 24380,
+            "range_end_text": "cg.c:741:5",
+            "range_start": 24275,
+            "range_start_text": "cg.c:738:5",
+            "type": 1
+        },
+        {
+            "enabled": false,
+            "id_str": "1_0_25269_25427",
+            "pos": 0,
+            "range_end": 25427,
+            "range_end_text": "cg.c:770:5",
+            "range_start": 25269,
+            "range_start_text": "cg.c:764:5",
+            "type": 1
+        }
+    ]
+}
