@@ -31,7 +31,7 @@ long as it supports OpenMP 5.0.
 
 The Optimizer and Tester modules, and the overarching framework managing the
 communication between modules, on the other hand, are implemented in Python
-3.10. The required tools are all included in the docker container provided.
+3.10. The required tools are all included in the provided docker container.
 
 ## Installation, Setup, and Running Example Programs
 
